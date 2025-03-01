@@ -1,0 +1,17 @@
+.flex-all-center{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 0 5px;
+    cursor: pointer;
+    background: var(--main-bg-color);
+    color: white;
+    border: 2px solid #a852a8;
+    border-radius: 5px
+}
+.btn:hover{
+    color: rgb(93, 14, 122);
+    font-weight: bolder;
+}
